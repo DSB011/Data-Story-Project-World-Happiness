@@ -51,4 +51,4 @@ Available Routes:
 - /api/v1.0/2020 
 
 ## Tech Environment Used
-Python, Pandas, D3, JavaScript, API, HTML, CSS, Jupyter Notebook, VSCode, GitHub, ZOom, Sack.
+Python, Pandas, D3, JavaScript, API, HTML, CSS, postgresql, Jupyter Notebook, VSCode, GitHub, ZOom, Sack.
